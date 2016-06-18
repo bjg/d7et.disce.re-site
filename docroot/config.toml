@@ -49,20 +49,61 @@ title = "D7ET Programming Lessons"
 
 	# Lessons section
 	[params.lessons]
-		headline = "Weekly worksheets"
+             headline = "Weekly worksheets"
 
         [[params.lessons.list]]
             icon = "fa-file"
             title = "Lesson one"
             description = "Introduction to the course content and the tools and technologies you will learn how to use"
-	    link = "/doc/ProgrammingfortheWeb-Week1.pdf"
+	    link = "ProgrammingfortheWeb-Week1.pdf"
 
         [[params.lessons.list]]
             icon = "fa-file"
             title = "Lesson two"
             description = "Continue building the game by setting up the main elements using HTML and Javascript drawing primitives"
-	    link = "/doc/ProgrammingfortheWeb-Week2.pdf"
+	    link = "ProgrammingfortheWeb-Week2.pdf"
 
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson three"
+            description = "Refactoring the Javascript code and building out more game logic for our Tamagotchi!"
+	    link = "ProgrammingfortheWeb-Week4.pdf"
+
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson four"
+            description = "If we don't think about how to feed our alien soon, we risk an untimely demise. In this lesson we find out how to give it bread"
+	    link = "ProgrammingfortheWeb-Week5.pdf"
+
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson five"
+            description = "A diet of just bread will get boring very quickly. In this lesson we find out how to give it some treats and model how it gets hungry if we don't feed our alien"
+	    link = "ProgrammingfortheWeb-Week8.pdf"
+
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson six"
+            description = "In this lesson we link feeding and hungriness to healthiness and what will keep our alien alive"
+	    link = "ProgrammingfortheWeb-Week9.pdf"
+
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson seven"
+            description = "In this lesson we model how our alien gets older and the game play progresses"
+	    link = "ProgrammingfortheWeb-Week10.pdf"
+
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson eight"
+            description = "As we give our alien sweets, we notice that it throws the wrappers on the ground. In this lesson we deal with counting and cleaning up"
+	    link = "ProgrammingfortheWeb-Week11.pdf"
+
+        [[params.lessons.list]]
+            icon = "fa-file"
+            title = "Lesson nine"
+            description = "In this, the final lesson, we add some sound effects to the game play and find out that our alien is a very noisy eater"
+	    link = "ProgrammingfortheWeb-Week12.pdf"
 
     # Aside section
 	[params.aside]
