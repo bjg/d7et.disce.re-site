@@ -107,7 +107,7 @@ title = "D7ET Programming Lessons"
 
     # Aside section
 	[params.aside]
-		headline = "Take me to the development site"
+		headline = "Look what we've achieved!"
 
 		[params.aside.button]
 			text = "Let's code!"
